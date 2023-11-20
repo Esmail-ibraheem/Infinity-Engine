@@ -1,9 +1,9 @@
-# Infinity-Engine
-:sunglasses: 3D Game Engine,
+# Infinity-Engine :sunglasses:
+3D Game Engine,
 Infinity-Engine is a 3D game engine developed using Java, OpenGL, and OpenGL Shader Language (GLSL). It includes various features such as textures, normals, a 3D renderer engine, environment map technique, ambient lighting, VAOs, VBOs, EBOs, and an object loader engine for loading 3D objects.
 ![Screenshot (114)](https://github.com/Esmail-ibraheem/Infinity-Engine/assets/113830751/1ce2daba-6b15-4c23-9257-92e8db7f83dd)
------
-Features:
+
+## Features:
 
 1. Textures: The engine supports texture mapping for models.
 1. Normals: The engine calculates and uses surface normals for lighting calculations.
